@@ -24,7 +24,8 @@ KisanDirect is a mobile and web marketplace where farmers and FPOs list their pr
 Farmer/FPO app: simple, works in regional languages, supports voice input, and runs on low data. Farmers upload a photo, quantity and expected harvest date.
 Buyer app: consumers can buy in small quantities, bulk buyers can place scheduled or contract orders.
 Logistics layer: local collection points (village hubs run by FPOs) where produce is gathered, graded and sent out in combined loads, so a single farmer doesn’t have to arrange transport.
-<img width="2600" height="1506" alt="image" src="https://github.com/user-attachments/assets/d02da33a-9f4c-4545-b1ef-fda9f3e36fe4" />
+<img width="2600" height="1506" alt="image" src="https://github.com/user-attachments/assets/368039a6-6872-4dcb-9935-74d7d065609b" />
+
 
 
 How it addresses the problem
